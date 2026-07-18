@@ -1,7 +1,7 @@
-# Import Libraries
+#Libraries
 
-import tkinter as tk       #  Used to create GUI (Graphical User Interface).
-import random              # Used to create GUI (Graphical User Interface).
+import tkinter as tk       # =====>  Used to create GUI (Graphical User Interface).
+import random              # =====>  Used to create GUI.
 
 # Game Settings (Constants)
 
