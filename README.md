@@ -108,16 +108,8 @@ This project helps beginners understand:
 
 ## 📸 Gameplay
 
-```
-+------------------------------------+
-| Score: 5                           |
-|                                    |
-|        🟢🟢🟢                      |
-|             🔴                     |
-|                                    |
-|                                    |
-+------------------------------------+
-```
+<img width="1920" height="1080" alt="snake-game-ss" src="https://github.com/user-attachments/assets/fdbff240-9e88-4897-86e9-7fc73227e5aa" />
+
 
 ---
 
